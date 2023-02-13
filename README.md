@@ -21,6 +21,11 @@
 
 <br/>  
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alexanderhajto&theme=midnight-purple" />
+
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -93,7 +98,7 @@
 
 
 ### Most used Languages  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxndr01&hide_border=true&layout=compact&theme=midnight-purple" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxndr01&hide_border=true&theme=midnight-purple" align="center" /></div>  
 
 <br/>  
 
