@@ -90,18 +90,12 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Lxndr01&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lxndr01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 
 ### Most used Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxndr01&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxndr01&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
@@ -118,6 +112,3 @@
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
