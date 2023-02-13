@@ -88,12 +88,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lxndr01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lxndr01&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="center" /></div>  
 
 
 
 ### Most used Languages  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxndr01&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxndr01&hide_border=true&layout=compact&theme=midnight-purple" align="center" /></div>  
 
 <br/>  
 
