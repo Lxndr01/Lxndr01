@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">📚Hello my name is Kornél Hajtó, I'm a 1th year University Student learning Computer Science Engineer</div>**  
+### **<div align="center">📚Hello my name is Kornél Hajtó, I'm a 1st year University Student learning Computer Science Engineer</div>**  
   
 
 ### <div align="center">🔭 These days I’m working on staying alive.</div>  
