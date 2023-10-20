@@ -3,22 +3,11 @@
 </div>  
   
 
-### **<div align="center">📚Hello my name is Kornél Hajtó, I'm a 5th year student learning as a Software Developer and Tester</div>**  
+### **<div align="center">📚Hello my name is Kornél Hajtó, I'm a 1th year University Student learning Computer Science Engineer</div>**  
   
 
-### <div align="center">🔭 I’m currently working on Videogame called RaccoonRecycle</div>  
+### <div align="center">🔭 These days I’m working on staying alive.</div>  
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- 🌱 I’m currently learning Rust  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-  
-
 <br/>  
 
 <div align="center">
